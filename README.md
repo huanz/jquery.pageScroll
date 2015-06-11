@@ -24,7 +24,7 @@ jquery单页滚屏插件。
 		$('#main').pageScroll();
 	</script>
 
-[查看demo](http://htmlpreview.github.io/?https://github.com/huanz//jquery.pageScroll/blob/master/demo/index.html)
+[查看demo](http://htmlpreview.github.io/?https://github.com/huanz/jquery.pageScroll/blob/master/demo/index.html)
 
 ## API说明
 
